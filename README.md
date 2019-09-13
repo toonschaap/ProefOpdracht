@@ -30,8 +30,7 @@ Het lastige aan de proefopdracht is dat
 |week 2 |
 
 ## Bronnen
-Welke bronnen heb je gebruikt? Zowel youtube filmpjes als artikelen
-
-- [The Guide To Game Design](link)
-- [Alleatoric Algorithms](link)
-- [Flood-Fill Wikipedia](link)
+- https://www.youtube.com/watch?v=_nRzoTzeyxU
+- 
+- https://answers.unity.com/questions/998974/best-approach-to-xml-dialogues.html
+- https://docs.microsoft.com/en-us/dotnet/api/system.xml.serialization.xmlserializer?redirectedfrom=MSDN&view=netframework-4.8
