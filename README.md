@@ -22,7 +22,7 @@ Ik wist dat ik aan het begin van de opdracht Unity ging gebruiken. Van alle engi
 - 
 
 ## Planning 
-Het lastige aan de proefopdracht is dat 
+Het lastige aan de proefopdracht is dat we ook onze portfolio deze maand moeten afmaken. Gelukkig hebben we vrij veel uren om aan beide te werken. Dus is het een kwestie van balanceren.
 
 | | maandag | dinsdag | woensdag | donderdag | vrijdag |
 | --- | --- | --- | --- | --- | --- |
