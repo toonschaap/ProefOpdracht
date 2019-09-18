@@ -26,8 +26,8 @@ Het lastige aan de proefopdracht is dat
 
 | | maandag | dinsdag | woensdag | donderdag | vrijdag |
 | --- | --- | --- | --- | --- | --- |
-|week 1 |Proefopdracht uitkiezen |Onderzoek naar XML en pop up systeem maken.|
-|week 2 |
+|week 1 |Proefopdracht uitkiezen |Onderzoek naar XML en pop up systeem maken.| Verder testen met XML. | Andere talen onderzoeken. | Verder aan het project met een TXT bestand.| 
+|week 2 | Dialogue box werkt. | Polishen en experimenteren met meerdere NPCs.|Polishen.|
 
 ## Bronnen
 - https://www.youtube.com/watch?v=_nRzoTzeyxU
