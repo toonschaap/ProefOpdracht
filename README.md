@@ -26,7 +26,7 @@ Het lastige aan de proefopdracht is dat
 
 | | maandag | dinsdag | woensdag | donderdag | vrijdag |
 | --- | --- | --- | --- | --- | --- |
-|week 1 |Proefopdracht uitkiezen |Onderzoek naar XML.|
+|week 1 |Proefopdracht uitkiezen |Onderzoek naar XML en pop up systeem maken.|
 |week 2 |
 
 ## Bronnen
