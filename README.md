@@ -5,9 +5,8 @@ Dit is een demo waar de speler een kort gesprek kan houden met een npc.
 Briefing: https://drive.google.com/file/d/1yNqu4h3yw3X7Og6xEX7KSTq0yam-UtSK/view?usp=sharing
 
 ## Features
-- [Awesome Algoritme](link)
-- [Specifieke Mechanic](link)
-- [Iets unieks waar je trots op bent binnen de project](link)
+- [Textmanager](https://github.com/toonschaap/ProefOpdracht/blob/master/Dialogue%20system/Assets/Scripts/Dialogue/TextManager.cs)
+- [ShowPopUp](https://github.com/toonschaap/ProefOpdracht/blob/master/Dialogue%20system/Assets/Scripts/Dialogue/ShowPopUp.cs)
 
 ## Software Anaylse 
 Ik wist dat ik aan het begin van de opdracht Unity ging gebruiken. Van alle engines en talen waar ik mee gewerkt heb de laatste 3 jaar heb ik de meeste ervaring met Unity en C#. De andere optie die ik had was met HTML, CSS en javascript te werken. Met HTML en CSS heb ik een klein beetje ervaring, maar javascript heb ik altijd een hele lastige taal gevonden. Daarbij ben ik niet van plan om javascript in de toekomst te gebruiken. Dus ook al zou ik wat van javascript leren, is het handiger dat ik hetzelfde idee leer, maar dan in Unity. 
