@@ -25,8 +25,8 @@ Ik wist dat ik aan het begin van de opdracht Unity ging gebruiken. Van alle engi
 Het lastige aan de proefopdracht is dat 
 
 | | maandag | dinsdag | woensdag | donderdag | vrijdag |
-| Onderzoek naar XML | --- | --- | --- | --- | --- |
-|week 1 | 
+| --- | --- | --- | --- | --- | --- |
+|week 1 |Proefopdracht uitkiezen |Onderzoek naar XML.|
 |week 2 |
 
 ## Bronnen
