@@ -5,8 +5,6 @@ Dit is een demo waar de speler een kort gesprek kan houden met een npc.
 Briefing: https://drive.google.com/file/d/1yNqu4h3yw3X7Og6xEX7KSTq0yam-UtSK/view?usp=sharing
 
 ## Features
-Wanneer je een specifiek onderdeel wilt uitlichten kun je dat in deze sectie benoemen.
-
 - [Awesome Algoritme](link)
 - [Specifieke Mechanic](link)
 - [Iets unieks waar je trots op bent binnen de project](link)
@@ -19,7 +17,6 @@ Ik wist dat ik aan het begin van de opdracht Unity ging gebruiken. Van alle engi
 ## Leerdoelen 
 - Een dialogue systeem kunnen maken met een extern bestand
 - Het dialogue systeem zo hergebruikelijk maken voor zo veel mogelijk spellen.
-- 
 
 ## Planning 
 Het lastige aan de proefopdracht is dat we ook onze portfolio deze maand moeten afmaken. Gelukkig hebben we vrij veel uren om aan beide te werken. Dus is het een kwestie van balanceren.
@@ -31,6 +28,6 @@ Het lastige aan de proefopdracht is dat we ook onze portfolio deze maand moeten 
 
 ## Bronnen
 - https://www.youtube.com/watch?v=_nRzoTzeyxU
-- 
+- https://www.youtube.com/watch?v=ehmBIP5sj0M
 - https://answers.unity.com/questions/998974/best-approach-to-xml-dialogues.html
 - https://docs.microsoft.com/en-us/dotnet/api/system.xml.serialization.xmlserializer?redirectedfrom=MSDN&view=netframework-4.8
